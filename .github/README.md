@@ -11,8 +11,6 @@
 &nbsp;
 
 [![JFXCentral](https://img.shields.io/badge/Find_me_on-JFXCentral-blue?logo=googlechrome&logoColor=white&color=7289DA)](https://www.jfx-central.com/tools/webfx)
-[![Twitter](https://img.shields.io/badge/follow-%40WebFXProject-0f80c0?logo=x&color=7289DA)](https://twitter.com/WebFXProject) 
-[![Discord](https://img.shields.io/discord/1205089571835088907?logo=discord&color=7289DA&logoColor=white)][webfx-discord]
 
 </div>
 
@@ -225,19 +223,9 @@ Some redesign work is also necessary to transit from the current patching proces
 [vertx-website]: https://vertx.io
 </details>
 
-## Support
-
-For any questions or requests for help, feel free to open a GitHub [discussion](https://github.com/webfx-project/webfx/discussions), or use our [#general][webfx-discord] chat channel on Discord. You can open an [issue](https://github.com/webfx-project/webfx/issues) to report a bug, or request a feature.
-
-
 ## License
 
 WebFX is a free, open-source software licensed under the [Apache License 2.0](../LICENSE)
-
-## Supported by
-[![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg)](https://jb.gg/OpenSourceSupport)
-
-Special thanks to JetBrains for supporting WebFX by generously providing a free license for IntelliJ IDEA Ultimate.
 
 [webfx-website]: https://webfx.dev
 [webfx-docs]: https://docs.webfx.dev
